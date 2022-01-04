@@ -1,3 +1,3 @@
 # Thapathalihomepage
 
-![Screenshot](static/images/thapathalihomepage.png)
+![Screenshot](/static/images/thapathalihomepage.png)
